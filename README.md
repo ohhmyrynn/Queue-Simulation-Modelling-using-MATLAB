@@ -31,14 +31,14 @@ The creation of this project was driven by the need to improve the service exper
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Queue-Simulation-Modelling-using-MATLAB.git
+   git clone https://github.com/ohhmyrynn/Queue-Simulation-Modelling-using-MATLAB.git
    ```
 2. Open MATLAB and navigate to the project folder.
 3. Run the Simulink model and configure the simulation parameters as needed.
 
 ## How to Use
 
-1. Open the `Queue_Simulation_Model.slx` file in MATLAB Simulink.
+1. Open the file extension `.slx` file in MATLAB Simulink.
 2. Modify the input parameters such as:
    - Number of service counters
    - Arrival rates
